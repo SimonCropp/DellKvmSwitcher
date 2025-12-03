@@ -1,0 +1,1 @@
+﻿public delegate Task Invoke(string targetDirectory, string? package, bool build);

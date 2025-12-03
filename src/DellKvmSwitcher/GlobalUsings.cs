@@ -1,0 +1,12 @@
+﻿global using System.Runtime.InteropServices;
+global using System.Xml;
+global using System.Xml.Linq;
+global using CommandLine;
+global using NuGet.Common;
+global using NuGet.Configuration;
+global using NuGet.Protocol;
+global using NuGet.Protocol.Core.Types;
+global using NuGet.Versioning;
+global using Serilog;
+global using Serilog.Events;
+global using Serilog.Parsing;
